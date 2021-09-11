@@ -7,21 +7,21 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: BOb
+    name: Alan Doe
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: usasuyash@gmail.com
-    phone: 217 819 9253
-    website:  #do not add http://
-    linkedin: suyash-nagumalli
-    xing: 
-    github: faddock
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: 
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,17 +29,23 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Native & Professional
-
-      - idiom: Hindi
         level: Native
 
-    interests:
-      - item: Piano
-        link: https://www.youtube.com/user/vnagumalli
+      - idiom: French
+        level: Professional
 
-      - item: Music
-        link: https://soundcloud.com/suyash-nagumalli
+      - idiom: Spanish
+        level: Professional
+
+    interests:
+      - item: Climbing
+        link:
+
+      - item: Snowboarding
+        link:
+
+      - item: Cooking
+        link:
 
 career-profile:
     title: Career Profile
@@ -51,64 +57,92 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: BS in Computer Science 
-      university: University of Illinois at Urbana - Champaign
-      time: 2020 - present
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
-          - Minor in Mathematical Statistics
-          - Deans List in Fall 2020
-          - Membership Director 
-    - degree: Highschool degree - CBSE
-      university: Glendale Academy
-      time: 2008 - 2020
-      details: 
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
-    - role: SDE Intern
-      time: May 2021 - July 2021
-      company: Showingly, Denver CO
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
-        Worked on Frontend Web Development at a Real-Estate Tech company. 
-        Solely responsible for developing the entire CRM page of the website. 
-        Worked with React-redux in typescript with JavaScript, HTML and CSS, 
-        along with MongoDB stitch functions and their connected redux-Saga 
-        functions to grasp Full Stack Development
-          # - Bullet point
-          # - Bullet point
-          
-      - role: Entrepreneur, Software Developer
-      time: September 2020 - present
-      company: BubbleMeets, Urbana IL
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
       details: |
-          - Managing a startup with other students at UIUC
-          - Developed using React, Firebase database, hosted on AWS EC2 instance – integrated Zoom and JitsiMeet
-
-    - role: Intern
-      time: Apr 2019 - May 2019
-      company: Sesat SOlutions, Hyderabad India
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
       details: |
-        uccessfully designed and developed an Angular 5 web application with 
-        MySQL database connectivity. The app is based on the idea of furthering 
-        a Smart City. I worked on the app through each step of the System Life-cycle 
-        by peparing flowcharts, intricately coding API’s, designing the application, 
-        and finally testing it, while seeking professional guidance through each stage. 
-
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 projects:
     title: Projects
     intro: >
-      Below is a list of my most notable projects
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Graph Coloring Visualizer
-        link: "#"
-        tagline: "Developed an algorithm that calculates the chromatic number of a graph, with a UI to plot and manipulate the
-        graph while automatically coloring the nodes – helps students taking Discrete Structures"
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: CTAssist
-        link: "https://devpost.com/software/ctassist"
-        tagline: "Smart navigation system for wheelchair users in Chicago using CTA transit and alerts API"
-
-      - title: KNN classifier
+      - title: DevStudio
         link: "#"
-        tagline: "Built a KNN classifier using PyTorch library of Python as a project in SIG AIDA – ACM student organization"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -136,17 +170,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
-        level: 90%
+      - name: Python & Django
+        level: 98%
 
-      - name: ReactJS
-        level: 80%
+      - name: Javascript & jQuery
+        level: 98%
 
-      - name: Java
-        level: 80%
+      - name: Angular
+        level: 98%
 
-      - name: C++
-        level: 70%
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
