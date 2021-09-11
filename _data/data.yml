@@ -58,22 +58,16 @@ education:
       details: |
           - Minor in Mathematical Statistics
           - Dean's list - Fall 2020
+          - Membership Director  - Open Source @ Illinois 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Development Intern
+      time: June 2021 - August 2021
+      company: SHowingly, Denver CO
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+          - Worked on Frontend Web Development at a Real-Estate Tech company that develops web and mobile app
+          - Solely responsible for developing the entire Customer relationship management (CRM) page of the website
+          -Worked with React-redux in typescript with JavaScript, HTML and CSS, along with MongoDB stitch 
+          functions and their connected redux-Saga functions to grasp Full Stack Development
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
