@@ -39,10 +39,10 @@ sidebar:
 
     interests:
       - item: Piano
-        link: https://www.youtube.com/user/vnagumalli
+        link: "https://www.youtube.com/user/vnagumalli"
 
       - item: Music
-        link: https://soundcloud.com/suyash-nagumalli
+        link: "https://soundcloud.com/suyash-nagumalli"
 
 career-profile:
     title: Career Profile
