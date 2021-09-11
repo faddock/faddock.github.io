@@ -41,18 +41,13 @@ sidebar:
       - item: Piano
         link: "https://www.youtube.com/user/vnagumalli"
 
-      - item: Music
+      - item: SoundCloud
         link: "https://soundcloud.com/suyash-nagumalli"
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A conscientious developer with a demonstrated history of working in the computer software industry, and a proficient Pianist. Deeply interested in developing predictive technology and machine learning applications.
 education:
     - degree: MSc in Computer Science
       university: University of London
